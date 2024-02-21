@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1408c7d-7a60-4601-b18f-fee50ee05fe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_relation_query/query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_declare_mapping/08_orm_query_and_update/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_declare_mapping/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_declare_mapping/query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_orm_query_update/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_orm_query_update/query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_orm_query_update/query_single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_orm_query_update/update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_init3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_init4.py" afterDir="false" />
+    <list default="true" id="e1408c7d-7a60-4601-b18f-fee50ee05fe2" name="Changes" comment="daily">
+      <change afterPath="$PROJECT_DIR$/09_new_mapping/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_new_mapping/query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_one_to_many_orm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_one_to_many_orm/query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_init5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one_to_many/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_one_to_many/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one_to_many/insert_records.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_one_to_many/insert_records.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_init4.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_init4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +52,8 @@
       <recent name="G:\LearnSqlalchemy\02_create_table_n_records" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.update">
-    <configuration name="db_init3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.query (1)">
+    <configuration name="db_init4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnSqlalchemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +66,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_init3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_init4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_init5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnSqlalchemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_init5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_declare_mapping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_one_to_many_orm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_declare_mapping/query.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_one_to_many_orm/query.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="query (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="query" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnSqlalchemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,34 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_orm_query_update" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_new_mapping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_orm_query_update/query.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="query_single" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnSqlalchemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_orm_query_update" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_orm_query_update/query_single.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_new_mapping/query.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.update" />
-        <item itemvalue="Python.query_single" />
-        <item itemvalue="Python.query (2)" />
         <item itemvalue="Python.query (1)" />
-        <item itemvalue="Python.db_init3" />
+        <item itemvalue="Python.db_init5" />
+        <item itemvalue="Python.query" />
+        <item itemvalue="Python.db_init4" />
+        <item itemvalue="Python.update" />
       </list>
     </recent_temporary>
   </component>
@@ -189,8 +182,16 @@
       <option name="presentableId" value="Default" />
       <updated>1708308173361</updated>
       <workItem from="1708308174793" duration="9185000" />
-      <workItem from="1708391833684" duration="21270000" />
+      <workItem from="1708391833684" duration="32521000" />
     </task>
+    <task id="LOCAL-00001" summary="daily">
+      <created>1708486941001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708486941001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,19 +208,25 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="daily" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearnSqlalchemy$db_init4.coverage" NAME="db_init4 Coverage Results" MODIFIED="1708493361195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$insert_records.coverage" NAME="insert_records Coverage Results" MODIFIED="1708431351966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_to_many" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$select_by_multi_condition.coverage" NAME="select_by_multi_condition Coverage Results" MODIFIED="1708315350603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_select" />
-    <SUITE FILE_PATH="coverage/LearnSqlalchemy$query__1_.coverage" NAME="query (1) Coverage Results" MODIFIED="1708482579733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_declare_mapping" />
+    <SUITE FILE_PATH="coverage/LearnSqlalchemy$query__1_.coverage" NAME="query (1) Coverage Results" MODIFIED="1708500615362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_one_to_many_orm" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$test.coverage" NAME="test Coverage Results" MODIFIED="1708400109882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$query_single.coverage" NAME="query_single Coverage Results" MODIFIED="1708484911524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_orm_query_update" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$update.coverage" NAME="update Coverage Results" MODIFIED="1708486112950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_orm_query_update" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$select_by_condition.coverage" NAME="select_by_condition Coverage Results" MODIFIED="1708314860262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_select" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$delete.coverage" NAME="delete Coverage Results" MODIFIED="1708428758944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_update_and_delete" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$db_init3.coverage" NAME="db_init3 Coverage Results" MODIFIED="1708481886629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LearnSqlalchemy$query.coverage" NAME="query Coverage Results" MODIFIED="1708480163820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_relation_query" />
+    <SUITE FILE_PATH="coverage/LearnSqlalchemy$query.coverage" NAME="query Coverage Results" MODIFIED="1708493388255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_new_mapping" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$select_all.coverage" NAME="select_all Coverage Results" MODIFIED="1708314509022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_select" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$query__2_.coverage" NAME="query (2) Coverage Results" MODIFIED="1708484613142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_orm_query_update" />
+    <SUITE FILE_PATH="coverage/LearnSqlalchemy$db_init5.coverage" NAME="db_init5 Coverage Results" MODIFIED="1708498982609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$creat_tables.coverage" NAME="creat_tables Coverage Results" MODIFIED="1708314846675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$.coverage" NAME="装饰器 Coverage Results" MODIFIED="1708344700308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$first_sqlalchemy.coverage" NAME="first_sqlalchemy Coverage Results" MODIFIED="1708417181664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
