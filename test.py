@@ -1,13 +1,23 @@
+import time
+import numpy as np
+from tqdm import tqdm
+# for i in tqdm(range(100)):
+#     time.sleep(0.1)
 import pandas as pd
 
-# 创建一个示例DataFrame
-data = {
-    'Category': ['A', 'B', 'A', 'B', 'A', 'B'],
-    'Value': [1, 2, 3, 4, 5, 6]
-}
-df = pd.DataFrame(data)
+t1 = time.time()
+data = np.random.randint(1, 20, 1000000000)
+t2 = time.time()
+print(data)
 
-# 按照Category列的值分组，并计算每个分组的总和
-grouped = df.groupby('Category').sum()
+t1 = time.time()
+df = pd.DataFrame(data, columns=['DATA'])
+t2 = time.time()
 
-print(grouped)
+print(t2 - t1)
+
+t1 = time.time()
+tqdm(df.drop_duplicates(inplace=True))
+t2 = time.time()
+
+print(t2 - t1)
