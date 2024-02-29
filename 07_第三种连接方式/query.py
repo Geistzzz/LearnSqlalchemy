@@ -1,4 +1,4 @@
-from db_init3 import Session, Person
+from db_init import Session, Person
 
 session = Session()
 
