@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1408c7d-7a60-4601-b18f-fee50ee05fe2" name="Changes" comment="daily">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_第二种连接方式/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_sqlalchemy_core/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_第二种连接方式/db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_sqlalchemy_core/db_init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_第二种连接方式/多条件查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_sqlalchemy_core/多条件查询.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_第二种连接方式/条件查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_sqlalchemy_core/条件查询.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_第二种连接方式/查询全部.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_sqlalchemy_core/查询全部.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +216,7 @@
       <workItem from="1708911835466" duration="6293000" />
       <workItem from="1709022381794" duration="37000" />
       <workItem from="1709172714095" duration="1004000" />
-      <workItem from="1709473999438" duration="4245000" />
+      <workItem from="1709473999438" duration="5204000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <created>1708486941001</created>
@@ -267,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709480359737</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="daily">
+      <option name="closed" value="true" />
+      <created>1709481966758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709481966759</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +299,7 @@
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$creat_tables.coverage" NAME="creat_tables Coverage Results" MODIFIED="1708314846675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$query__1_.coverage" NAME="query (1) Coverage Results" MODIFIED="1708500615362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_one_to_many_orm" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$update.coverage" NAME="update Coverage Results" MODIFIED="1708486112950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_orm_query_update" />
-    <SUITE FILE_PATH="coverage/LearnSqlalchemy$db_init.coverage" NAME="db_init Coverage Results" MODIFIED="1709481444196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_sqlalchemy_core" />
+    <SUITE FILE_PATH="coverage/LearnSqlalchemy$db_init.coverage" NAME="db_init Coverage Results" MODIFIED="1709482279385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_sqlalchemy_core" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$select_all.coverage" NAME="select_all Coverage Results" MODIFIED="1708314509022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_select" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$query__2_.coverage" NAME="query (2) Coverage Results" MODIFIED="1708484613142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_orm_query_update" />
     <SUITE FILE_PATH="coverage/LearnSqlalchemy$.coverage" NAME="装饰器 Coverage Results" MODIFIED="1708344700308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
