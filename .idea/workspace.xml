@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1408c7d-7a60-4601-b18f-fee50ee05fe2" name="Changes" comment="daily">
-      <change beforePath="$PROJECT_DIR$/01_create_table_n_records/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_第一种连接方式/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_create_table_n_records/first_sqlalchemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_第一种连接方式/first_sqlalchemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_select/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_第二种连接方式/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_select/db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_第二种连接方式/db_init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_select/select_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_第二种连接方式/查询全部.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_select/select_by_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_第二种连接方式/条件查询.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_select/select_by_multi_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_第二种连接方式/多条件查询.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_update_and_delete/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_第二种连接方式_增_删_改/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_update_and_delete/db_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_第二种连接方式_增_删_改/db_init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_update_and_delete/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_第二种连接方式_增_删_改/delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_update_and_delete/update.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_第二种连接方式_增_删_改/update.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_one_to_many/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_第二种连接方式_外键约束/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_one_to_many/db_init2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_第二种连接方式_外键约束/db_init2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_one_to_many/insert_records.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_第二种连接方式_外键约束/insert_records.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_relation_query/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_第二种连接方式_关系型查询/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_relation_query/db_init2.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_第二种连接方式_关系型查询/db_init2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_relation_query/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_第二种连接方式_关系型查询/query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_orm_query_update/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_第三种连接方式/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_orm_query_update/db_init3.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_第三种连接方式/db_init3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_orm_query_update/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_第三种连接方式/query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_orm_query_update/query1.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_第三种连接方式/query1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_orm_query_update/query_single.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_第三种连接方式/query_single.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_orm_query_update/update.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_第三种连接方式/update.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_new_mapping/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_第三种连接方式_新的映射方式/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_new_mapping/db_init4.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_第三种连接方式_新的映射方式/db_init4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_new_mapping/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_第三种连接方式_新的映射方式/query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearnSqlalchemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnSqlalchemy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2cZ9JyK7HMAwBIcEPpBDUsOR9lp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -62,7 +46,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "G:/LearnSqlalchemy",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,6 +71,7 @@
   <component name="RunManager" selected="Python.first_sqlalchemy">
     <configuration name="db_init5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnSqlalchemy" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -103,6 +94,7 @@
     </configuration>
     <configuration name="first_sqlalchemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnSqlalchemy" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -125,6 +117,7 @@
     </configuration>
     <configuration name="query (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnSqlalchemy" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -147,6 +140,7 @@
     </configuration>
     <configuration name="query" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnSqlalchemy" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -169,6 +163,7 @@
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnSqlalchemy" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -199,6 +194,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -212,6 +214,7 @@
       <workItem from="1708911835466" duration="6293000" />
       <workItem from="1709022381794" duration="37000" />
       <workItem from="1709172714095" duration="1004000" />
+      <workItem from="1709473999438" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <created>1708486941001</created>
